@@ -1,2 +1,2 @@
 # techies
-Techies meetup fullstack app (graphql, vue).
+Hackernews Clone app (vue).
